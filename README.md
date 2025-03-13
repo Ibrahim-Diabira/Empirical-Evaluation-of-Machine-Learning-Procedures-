@@ -1,8 +1,7 @@
 # Empirical-Evaluation-of-Machine-Learning-Procedures-
 - __Overview__  :
 
-Technological advancements have made data collection easier than ever before, raising the ques-
-tion of variable selection in econometrics and machine learning more prominently today than in the
+Technological advancements have made data collection easier than ever before, raising the question of variable selection in econometrics and machine learning more prominently today than in the
 past. Particularly when the dataset contains a large number of predictors, it is essential to identify
 the most relevant ones to explain the target variable, in order to achieve a parsimonious model
 and good predictive performance. This paper revisits various methods, distinguishing between
