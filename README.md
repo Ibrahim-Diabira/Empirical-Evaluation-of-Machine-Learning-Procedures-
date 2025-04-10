@@ -12,6 +12,8 @@ criteria such as K-fold cross-validation and Press. The different methods are fi
 the assumption of independence among explanatory variables, then in the presence of correlation,
 outliers, and finally structural breaks. 
 
+➡️ **Grade received: 18/20**
+
 - __Project Description__ :
 
 This article focuses on assessing the effectiveness of various variable selection techniques across four distinct data scenarios. 
